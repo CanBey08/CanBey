@@ -5,7 +5,7 @@
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/RysFriztche?label=follow&style=social)](https://github.com/CanBey08)&nbsp;
 <a href="https://instagram.com/canfidan08"><img src="https://img.shields.io/badge/@CanFidan08-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-My Server
+Benim Suunucum
 https://discord.gg/maximusboys
 
 ## Bildiğim Diller
